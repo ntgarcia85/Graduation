@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Garcia Graduation//EN
+BEGIN:VEVENT
+UID:nicholas-garcia-graduation@uwyo.edu
+DTSTAMP:20250517T100000Z
+DTSTART;TZID=America/Denver:20250517T100000
+DTEND;TZID=America/Denver:20250517T113000
+SUMMARY:Nicholas T. Garcia - Graduation Ceremony
+LOCATION:Buchanan Center for Performing Arts, Laramie, WY
+DESCRIPTION:Join us in celebrating the graduation of Nicholas T. Garcia from the University of Wyoming College of Law.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
